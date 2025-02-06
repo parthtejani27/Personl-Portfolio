@@ -24,7 +24,7 @@ const Footer = () => {
                 alt="GitHub"
                 width={50}
                 height={50}
-                className="dark:invert" // This will invert the color in dark mode
+                className="dark:invert"
               />
             </a>
             <a

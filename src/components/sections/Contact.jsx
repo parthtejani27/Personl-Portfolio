@@ -160,7 +160,7 @@ const Contact = () => {
                       text-text-primary border border-transparent
                       focus:border-accent-main focus:outline-none
                       transition-all duration-300"
-                    placeholder="John Doe"
+                    placeholder="Enter Your Name"
                   />
                 </div>
 
@@ -182,7 +182,7 @@ const Contact = () => {
                       text-text-primary border border-transparent
                       focus:border-accent-main focus:outline-none
                       transition-all duration-300"
-                    placeholder="john@example.com"
+                    placeholder="parth@example.com"
                   />
                 </div>
 

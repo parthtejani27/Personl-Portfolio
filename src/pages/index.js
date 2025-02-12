@@ -4,6 +4,7 @@ import About from "@/components/sections/About";
 import Projects from "@/components/sections/Projects";
 import Skills from "@/components/sections/Skills";
 import Contact from "@/components/sections/Contact";
+import Experience from "@/components/sections/Experience";
 
 const Home = () => {
   return (
@@ -36,6 +37,12 @@ const Home = () => {
         <section id="skills" className="py-20">
           <div className="container mx-auto px-4">
             <Skills />
+          </div>
+        </section>
+
+        <section id="experience" className="py-20">
+          <div className="container mx-auto px-4">
+            <Experience />
           </div>
         </section>
 

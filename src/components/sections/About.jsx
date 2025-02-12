@@ -51,10 +51,10 @@ const About = () => {
             >
               <div className="space-y-6">
                 <p className="text-text-secondary text-xl leading-relaxed">
-                  Full Stack Developer with expertise in MEAN/MERN stack,
-                  specializing in building scalable web applications. I combine
-                  technical excellence with a passion for creating intuitive
-                  user experiences.
+                  Full Stack Developer with expertise in React, Angular, and
+                  Node.js, specializing in building scalable web applications
+                  with modern frontend frameworks and robust backend
+                  architectures.
                 </p>
 
                 <p className="text-text-secondary text-xl leading-relaxed">

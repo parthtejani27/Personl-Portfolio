@@ -4,7 +4,7 @@ A modern, responsive portfolio website built with Next.js and TailwindCSS, featu
 
 ![Sample Output](https://github.com/user-attachments/assets/f8a88745-d3bd-4265-a0e1-52600810eeca)
 
-[Live Demo](https://bag-it-now-frontend.vercel.app/)
+[Live Demo](https://parthtejani.vercel.app/)
 
 ## 🚀 Getting Started
 
